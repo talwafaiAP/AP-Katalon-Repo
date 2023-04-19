@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-form-field_Passwordvisibility_off</name>
+   <tag></tag>
+   <elementGuidId>4599d6e8-fab5-4084-a44b-c4bff16d612a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::mat-form-field[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-form-field.mat-mdc-form-field.st-login-spacing.ng-tns-c104-1.mat-mdc-form-field-has-icon-suffix.mat-form-field-appearance-outline.mat-form-field-hide-placeholder.mat-primary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-form-field</value>
+      <webElementGuid>51126494-0a8b-47d6-8015-505a24d2d7ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-form-field st-login-spacing ng-tns-c104-1 mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-outline mat-form-field-hide-placeholder mat-primary ng-star-inserted</value>
+      <webElementGuid>9335d3ff-047e-4bc9-bbdf-579a9b1bd31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passwordvisibility_off</value>
+      <webElementGuid>0dc2ea55-7934-49d5-be29-e5574d98de03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;playbook-theme&quot;]/app-root[@class=&quot;st-app-component&quot;]/login[@class=&quot;st-login ng-star-inserted&quot;]/div[@class=&quot;st-login-container&quot;]/div[@class=&quot;st-login-container-content&quot;]/mat-form-field[@class=&quot;mat-mdc-form-field st-login-spacing ng-tns-c104-1 mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-outline mat-form-field-hide-placeholder mat-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>852b1865-e5f4-49ac-a91c-7bc9ff7d609c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::mat-form-field[1]</value>
+      <webElementGuid>84f44dc5-446b-4c7c-9f69-8e08d8df5852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP STORYTELLING'])[1]/following::mat-form-field[2]</value>
+      <webElementGuid>2b59a2c8-5d0b-4598-9bc6-6ef20a97a64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/preceding::mat-form-field[1]</value>
+      <webElementGuid>74a680e3-0972-4d1f-b7e4-4b1b77b9a139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[2]</value>
+      <webElementGuid>88a4a8da-ab6b-4e15-b25e-e74db91ad464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-form-field[(text() = 'Passwordvisibility_off' or . = 'Passwordvisibility_off')]</value>
+      <webElementGuid>7285ec8c-9bc5-47d4-89d6-abf5ca556528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

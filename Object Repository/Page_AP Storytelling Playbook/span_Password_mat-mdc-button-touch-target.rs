@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>cc55c896-9923-4560-8402-b985728124f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cae0ff50-5d7e-4a3d-9946-8f81dec85986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>1de9b10b-b65a-4fd6-8a30-d427117dfaa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;playbook-theme&quot;]/app-root[@class=&quot;st-app-component&quot;]/login[@class=&quot;st-login ng-star-inserted&quot;]/div[@class=&quot;st-login-container&quot;]/div[@class=&quot;st-login-container-content&quot;]/mat-form-field[@class=&quot;mat-mdc-form-field st-login-spacing ng-tns-c104-1 mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-outline mat-primary ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-text-field-wrapper mdc-text-field ng-tns-c104-1 mdc-text-field--outlined&quot;]/div[@class=&quot;mat-mdc-form-field-flex ng-tns-c104-1&quot;]/div[@class=&quot;mat-mdc-form-field-icon-suffix ng-tns-c104-1 ng-star-inserted&quot;]/button[@class=&quot;mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-tns-c104-1 cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>c9c7a00e-065a-4e44-a35c-fb0347d7e9eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>33573513-da5a-47c3-ae28-80fa0d596c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

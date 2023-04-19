@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Doe1 Jane</name>
+   <tag></tag>
+   <elementGuidId>226c9024-2c59-4da6-a39e-ec7b28f1ea7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-0']/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.st-user-menu-container--info__username</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>b89e79e0-59fa-4eed-a955-c09f69b00817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>st-user-menu-container--info__username</value>
+      <webElementGuid>01ff164a-6728-4db9-827f-00f8934d7870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Doe1 Jane</value>
+      <webElementGuid>e1bf0602-360b-4e08-b543-d624146331da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doe1 Jane</value>
+      <webElementGuid>2629dd5b-6a92-4944-bd33-a06cd317c8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-0&quot;)/div[@class=&quot;mat-mdc-menu-content mdc-list ng-tns-c140-2&quot;]/div[@class=&quot;st-user-menu-container ng-tns-c140-2&quot;]/div[@class=&quot;st-user-menu-container--info&quot;]/h4[@class=&quot;st-user-menu-container--info__username&quot;]</value>
+      <webElementGuid>363e01d9-b032-4943-bdd3-4e2164b45e39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-0']/div/div/div/h4</value>
+      <webElementGuid>65b87987-4b01-400e-b289-33617089424a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional'])[1]/following::h4[1]</value>
+      <webElementGuid>27af3634-8f49-458d-84b8-f47ee4cb6fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[1]/following::h4[1]</value>
+      <webElementGuid>e5301f44-aaa9-46af-843b-badf00a61fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::h4[1]</value>
+      <webElementGuid>43914ba8-789f-49e1-84ab-dbc9136255b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region and Language'])[1]/preceding::h4[1]</value>
+      <webElementGuid>afd81ac1-97c5-4325-86b7-ea2972d31a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doe1 Jane']/parent::*</value>
+      <webElementGuid>c78378a0-47a6-4756-8831-fb83c23d384e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>8933bfd2-b5cb-4e11-8d51-ddc83f352527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@title = 'Doe1 Jane' and (text() = 'Doe1 Jane' or . = 'Doe1 Jane')]</value>
+      <webElementGuid>a5939a83-9970-41c5-90f9-40941078383f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

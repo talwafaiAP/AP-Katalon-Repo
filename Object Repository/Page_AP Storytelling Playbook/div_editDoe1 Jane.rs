@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_editDoe1 Jane</name>
+   <tag></tag>
+   <elementGuidId>b17ee9c4-7826-46e8-94de-8173ffe2c6a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-0']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.st-user-menu-container.ng-tns-c140-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e3ceb81-d07e-4e80-949e-f31fa1ec6901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>st-user-menu-container ng-tns-c140-2</value>
+      <webElementGuid>2ff9dd6b-0199-42a7-a179-819e55e1d645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>editDoe1 Jane</value>
+      <webElementGuid>2fab1c9f-27b7-4ede-a65c-7186d0bb4f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-0&quot;)/div[@class=&quot;mat-mdc-menu-content mdc-list ng-tns-c140-2&quot;]/div[@class=&quot;st-user-menu-container ng-tns-c140-2&quot;]</value>
+      <webElementGuid>8613c0e5-5626-4893-9669-9e8767db4011</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-0']/div/div</value>
+      <webElementGuid>d6cef0f2-e109-4ce3-a754-5df122d58525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional'])[1]/following::div[12]</value>
+      <webElementGuid>ce293c7b-3c34-4189-93ef-28f6e25c9326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[1]/following::div[15]</value>
+      <webElementGuid>b6765af1-604e-44a7-980e-1836c4e30dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::div[2]</value>
+      <webElementGuid>0c4d8834-5f0a-48dd-abbc-f0b7f29d27b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>b4ea793d-20bd-4810-bb72-d22ea3b38be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'editDoe1 Jane' or . = 'editDoe1 Jane')]</value>
+      <webElementGuid>fc9342a5-532a-4b1d-a977-88dcdf972815</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
